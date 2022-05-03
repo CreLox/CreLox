@@ -1,4 +1,4 @@
-A good story and Euclidean geometry have one thing in common: they both start from a series of elegant settings, which naturally lead to all the marvelous follow-ups.
+Good stories and Euclidean geometry have one thing in common: they both start from a series of elegant settings, which naturally lead to all the marvelous follow-ups.
 ___________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
