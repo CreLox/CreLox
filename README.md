@@ -2,6 +2,8 @@ Good stories and Euclidean geometry have one thing in common: they both start fr
 ___________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
+At long last, GitHub Markdown now supports [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) natively (from May 2022)!
+
 <!--
 **CreLox/CreLox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
