@@ -4,7 +4,8 @@ ___________________________________
 
 At long last, GitHub Markdown now supports [MathJax math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) natively (from May 2022)!
 
-Interested in knowing what I worked on previously during my Ph.D. training? You are welcome to read [my thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my ORCID profile (follow the link under my avatar)!
+___________________________________
+Interested in knowing what I worked on previously during my Ph.D. training? Welcome to read [my thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my ORCID profile (follow the link under my avatar)!
 
 <!--
 **CreLox/CreLox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
