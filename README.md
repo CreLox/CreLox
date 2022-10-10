@@ -5,7 +5,7 @@ ___________________________________
 At long last, GitHub Markdown now supports [MathJax math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) natively (from May 2022)! To get curly brackets ( $\\{$ and $\\}$ ), use double backslashes to escape (`$\\{$` and `$\\}$`).
 
 ___________________________________
-Interested in knowing what I worked on previously during my Ph.D. training? Welcome to read [my thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my ORCID profile (follow the link under my avatar)!
+Interested in knowing what I worked on previously during my Ph.D. training? Welcome to read [my thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my [ORCID profile](https://orcid.org/0000-0002-5075-5722)!
 
 <!--
 **CreLox/CreLox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
