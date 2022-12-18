@@ -1,4 +1,6 @@
 Good stories and Euclidean geometry have one thing in common: they both start from a series of elegant settings, which naturally lead to all the marvelous follow-ups.
+
+> ...Stepping out into the universe, we must confront the reality of interstellar travel. We must reach far beyond our own lifespans. We must think not as individuals but as a species. - Professor John Brand (*Interstellar*)
 ___________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
