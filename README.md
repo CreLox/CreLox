@@ -1,3 +1,5 @@
+**Preface**
+
 Good stories and Euclidean geometry have one thing in common: they both start from a series of elegant settings, which naturally lead to all the marvelous follow-ups.
 
 ___________________________________
