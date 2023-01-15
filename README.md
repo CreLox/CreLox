@@ -10,7 +10,7 @@ ___________________________________
 ___________________________________
 **On me**
 
-Interested in knowing me as a biologist? Read [my thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my [ORCID profile](https://orcid.org/0000-0002-5075-5722)!
+Interested in knowing me as a biologist? Read my [thesis](https://deepblue.lib.umich.edu/handle/2027.42/174669) and my [ORCID profile](https://orcid.org/0000-0002-5075-5722)!
 
 ___________________________________
 **On GitHub**
