@@ -1,5 +1,7 @@
-<!--
+<!--恭喜你发现彩蛋!
+
 寒江雪...还tm独钓。颇具浪漫主义气质，啊?!
+
 -->
 Good stories and Euclidean geometry have one thing in common: they both start from a series of elegant settings, which naturally lead to all the marvelous follow-ups.
 
