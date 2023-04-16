@@ -9,8 +9,9 @@ Good stories and Euclidean geometry have one thing in common: they both start fr
 ___________________________________
 **Quotes I like**
 
-> ...Stepping out into the universe, we must confront the reality of interstellar travel. We must reach far beyond our own lifespans. We must think not as individuals but as a species. - Professor Brand (*Interstellar*, 2014)
+> ...Stepping out into the universe, we must confront the reality of interstellar travel. We must reach far beyond our own lifespans. We must think not as individuals but as a species. - *Interstellar*, 2014 movie (narrated by Professor Brand)
 
+> L'Internationale sera le genre humain. - Eugène Pottier (in *L'Internationale*)
 ___________________________________
 **On me**
 
