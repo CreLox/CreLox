@@ -16,7 +16,7 @@ ___________________________________
 
 **Interested in knowing me as a biologist?**
 
-Here are links to my [thesis abstract](https://deepblue.lib.umich.edu/handle/2027.42/174669) and [ORCID](https://orcid.org/0000-0002-5075-5722)/[Google Scholar](https://scholar.google.com/citations?user=Lwu9LecAAAAJ)/[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57205333872) profile :)
+Here are links to my [thesis abstract](https://deepblue.lib.umich.edu/handle/2027.42/174669) and [ORCID](https://orcid.org/0000-0002-5075-5722)/[Google Scholar](https://scholar.google.com/citations?user=Lwu9LecAAAAJ) profile :)
 
 ___________________________________
 **On GitHub**
