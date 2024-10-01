@@ -18,11 +18,11 @@ ___________________________________
 
 Here are links to my [thesis abstract](https://deepblue.lib.umich.edu/handle/2027.42/174669) and [ORCID](https://orcid.org/0000-0002-5075-5722)/[Google Scholar](https://scholar.google.com/citations?user=Lwu9LecAAAAJ) profile :)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
 <!--
 ___________________________________
 **On GitHub**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 At long last, GitHub Markdown now supports [MathJax math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) natively (from May 2022)! To get curly brackets ( $\\{$ and $\\}$ ), use double backslashes to escape (`$\\{$` and `$\\}$`).
 -->
