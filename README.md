@@ -19,7 +19,8 @@ ___________________________________
 Here are links to my [thesis abstract](https://deepblue.lib.umich.edu/handle/2027.42/174669) and [ORCID](https://orcid.org/0000-0002-5075-5722)/[Google Scholar](https://scholar.google.com/citations?user=Lwu9LecAAAAJ) profile :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreLox&langs_count=10&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-
+___________________________________
+The profile picture, capturing the scene wherein an Ethiopian wolf forages nectar of the Ethiopian red hot poker, came from [Lai et al., 2024](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4470).
 <!--
 ___________________________________
 **On GitHub**
